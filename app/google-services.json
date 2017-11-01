@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "764587598395",
+    "firebase_url": "https://visiguide-39f46.firebaseio.com",
+    "project_id": "visiguide-39f46",
+    "storage_bucket": "visiguide-39f46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764587598395:android:5e816eaa672a1c54",
+        "android_client_info": {
+          "package_name": "com.visiguide.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764587598395-tsfhtq06qcq2eud4bi2e3a7q53n9b6c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVL-N_OcASYQQx-cE60rst6PlPeCX0-GI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
